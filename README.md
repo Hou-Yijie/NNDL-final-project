@@ -1,2 +1,2 @@
 # NNPJ-Final
-Neural Network Final Project
+Neural Network and Deep Learning Final Project
